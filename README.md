@@ -23,8 +23,6 @@ projeto2_interface_express/
 ├── README.md
 ├── css/
 │   └── estilo.css
-├── captura-desktop.png
-└── captura-mobile.png
 ```
 
 ## Estrutura e recursos
